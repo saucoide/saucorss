@@ -80,6 +80,11 @@
             <outline text="Vihart" type="rss" htmlUrl="https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOGeU-1Fig3rrDjhm9Zs_wg"/>
             <outline text="Veritasium" type="rss" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA"/>
             <outline text="vkgoeswild" type="rss" htmlUrl="https://www.youtube.com/channel/UCbKM5fcSsaEFZRP-bjH8Y9w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbKM5fcSsaEFZRP-bjH8Y9w"/>
+            <outline text="Atlas Pro" type="rss" htmlUrl="https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz1oFxMrgrQ82-276UCOU9w"/>
+            <outline text="Economics Explained" type="rss" htmlUrl="https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg"/>
+            <outline text="MKBHD" type="rss" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"/>
+            <outline text="ShortCircuit" type="rss" htmlUrl="https://www.youtube.com/channel/UCdBK94H6oZT2Q7l0-b0xmMg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg"/>
+            <outline text="TheLinuxExperiment" type="rss" htmlUrl="https://www.youtube.com/channel/UC5UAwBUum7CPN5buc-_N1Fw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5UAwBUum7CPN5buc-_N1Fw"/>
         </outline>
         <outline text="podcasts">
             <outline text="Guerra 3" type="rss" htmlUrl="https://www.podiumpodcast.com/guerra-3/" xmlUrl="http://fapi-top.prisasd.com/podcast/podium/guerra_3/itunestfp/podcast.xml"/>
