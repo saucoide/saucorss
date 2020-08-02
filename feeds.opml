@@ -18,7 +18,6 @@
     </outline>
     <outline text="blogs" title="blogs">
       <outline text="Wrocław Uncut" title="Wrocław Uncut" type="rss" xmlUrl="https://wroclawuncut.com/feed/" htmlUrl="https://wroclawuncut.com"/>
-      <outline text="Wroclaw Expats" title="Wroclaw Expats" type="rss" xmlUrl="http://wroclawexpats.com/rss" htmlUrl="http://wroclawexpats.com"/>
       <outline text="francis" title="francis" type="rss" xmlUrl="http://feeds.feedburner.com/naukas/francis" htmlUrl="http://francis.naukas.com"/>
       <outline text="ocularis" title="ocularis" type="rss" xmlUrl="https://ocularis.es/feed/" htmlUrl="https://ocularis.es/"/>
       <outline text="CGP Grey" title="CGP Grey" type="rss" xmlUrl="http://feeds.feedburner.com/cgpgrey/PJyo" htmlUrl="http://www.cgpgrey.com/"/>
@@ -34,7 +33,6 @@
       <outline text="techaltar" title="techaltar" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtZO3K2p8mqFwiKWb9k7fXA" htmlUrl="http://www.youtube.com/channel/UCtZO3K2p8mqFwiKWb9k7fXA"/>
       <outline text="socratica" title="socratica" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6TXMZ5Pq6yL6_k5NZ2e0Q" htmlUrl="http://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q"/>
       <outline text="LastWeekTonight" title="LastWeekTonight" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3XTzVzaHQEd30rQbuvCtTQ" htmlUrl="http://www.youtube.com/user/LastWeekTonight"/>
-      <outline text="bbcearth" title="bbcearth" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg" htmlUrl="http://www.youtube.com/user/BBCEarth"/>
       <outline text="oversimplified" title="oversimplified" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNIuvl7V8zACPpTmmNIqP2A" htmlUrl="http://www.youtube.com/channel/UCNIuvl7V8zACPpTmmNIqP2A"/>
       <outline text="vlogbrothers" title="vlogbrothers" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGaVdbSav8xWuFWTadK6loA" htmlUrl="http://www.youtube.com/user/vlogbrothers"/>
       <outline text="democracynow" title="democracynow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCzuqE7-t13O4NIDYJfakrhw" htmlUrl="http://www.youtube.com/user/democracynow"/>
@@ -62,7 +60,6 @@
       <outline text="Atlas Pro" title="Atlas Pro" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCz1oFxMrgrQ82-276UCOU9w" htmlUrl="https://www.youtube.com/channel/UCz1oFxMrgrQ82-276UCOU9w"/>
       <outline text="Steve Mould" title="Steve Mould" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEIwxahdLz7bap-VDs9h35A" htmlUrl="http://www.youtube.com/user/steventhebrave"/>
       <outline text="Computerphile" title="Computerphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="http://www.youtube.com/user/Computerphile"/>
-      <outline text="Data School" title="Data School" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCnVzApLJE2ljPZSeQylSEyg" htmlUrl="http://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg"/>
       <outline text="Corey Schafer" title="Corey Schafer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCezIgC97PvUuR4_gbFUs5g" htmlUrl="http://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g"/>
       <outline text="Pindex" title="Pindex" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDg_EVBPyUmKrR54mp9Wjyw" htmlUrl="https://www.youtube.com/channel/UCDg_EVBPyUmKrR54mp9Wjyw"/>
       <outline text="Tom Scott" title="Tom Scott" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" htmlUrl="http://www.youtube.com/user/enyay"/>
@@ -71,14 +68,12 @@
       <outline text="NileRed" title="NileRed" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA" htmlUrl="http://www.youtube.com/channel/UCFhXFikryT4aFcLkLw2LBLA"/>
       <outline text="Kurzgesagt – In a Nutshell" title="Kurzgesagt – In a Nutshell" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" htmlUrl="http://www.youtube.com/user/Kurzgesagt"/>
       <outline text="Practical Engineering" title="Practical Engineering" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ" htmlUrl="http://www.youtube.com/channel/UCMOqf8ab-42UUQIdVoKwjlQ"/>
-      <outline text="Sciencium" title="Sciencium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGRB1ZjIqAiaGwt-XLq9CnA" htmlUrl="http://www.youtube.com/channel/UCGRB1ZjIqAiaGwt-XLq9CnA"/>
       <outline text="SmarterEveryDay" title="SmarterEveryDay" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA" htmlUrl="http://www.youtube.com/user/destinws2"/>
       <outline text="DeepSkyVideos" title="DeepSkyVideos" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo-3ThNQmPmQSQL_L6Lx1_w" htmlUrl="http://www.youtube.com/user/DeepSkyVideos"/>
       <outline text="NightHawkInLight" title="NightHawkInLight" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFtc3XdXgLFwhlDajMGK69w" htmlUrl="http://www.youtube.com/user/Nighthawkinlight"/>
       <outline text="The Late Show with Stephen Colbert" title="The Late Show with Stephen Colbert" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMtFAi84ehTSYSE9XoHefig" htmlUrl="http://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig"/>
       <outline text="Vihart" title="Vihart" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOGeU-1Fig3rrDjhm9Zs_wg" htmlUrl="http://www.youtube.com/user/Vihart"/>
       <outline text="Veritasium" title="Veritasium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="http://www.youtube.com/user/1veritasium"/>
-      <outline text="vkgoeswild" title="vkgoeswild" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbKM5fcSsaEFZRP-bjH8Y9w" htmlUrl="http://www.youtube.com/user/vkgoeswild"/>
       <outline text="Economics Explained" title="Economics Explained" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg" htmlUrl="https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg"/>
       <outline text="MKBHD" title="MKBHD" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ" htmlUrl="http://www.youtube.com/user/marquesbrownlee"/>
       <outline text="ShortCircuit" title="ShortCircuit" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdBK94H6oZT2Q7l0-b0xmMg" htmlUrl="https://www.youtube.com/channel/UCdBK94H6oZT2Q7l0-b0xmMg"/>
