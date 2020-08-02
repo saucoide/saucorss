@@ -8,7 +8,6 @@
       <outline text="Notes From Poland" title="Notes From Poland" type="rss" xmlUrl="https://notesfrompoland.com/rss" htmlUrl="https://notesfrompoland.com"/>
       <outline text="Intercept" title="Intercept" type="rss" xmlUrl="https://theintercept.com/feed/?lang=en" htmlUrl="https://theintercept.com/"/>
       <outline text="eldiario" title="eldiario" type="rss" xmlUrl="https://www.eldiario.es/rss/" htmlUrl="https://www.eldiario.es/"/>
-      <outline text="notesfrompoland" title="notesfrompoland" type="rss" xmlUrl="https://twitrss.me/twitter_user_to_rss/?user=notesfrompoland" htmlUrl="https://twitter.com/notesfrompoland"/>
     </outline>
     <outline text="python" title="python">
       <outline text="Practical Business Python" title="Practical Business Python" type="rss" xmlUrl="http://pbpython.com/feeds/all.atom.xml" htmlUrl="http://pbpython.com/"/>
@@ -23,7 +22,7 @@
       <outline text="francis" title="francis" type="rss" xmlUrl="http://feeds.feedburner.com/naukas/francis" htmlUrl="http://francis.naukas.com"/>
       <outline text="ocularis" title="ocularis" type="rss" xmlUrl="https://ocularis.es/feed/" htmlUrl="https://ocularis.es/"/>
       <outline text="CGP Grey" title="CGP Grey" type="rss" xmlUrl="http://feeds.feedburner.com/cgpgrey/PJyo" htmlUrl="http://www.cgpgrey.com/"/>
-      <outline text="mimesacjea" title="mimesacjea" type="rss" xmlUrl="https://twitrss.me/twitter_user_to_rss/?user=mimesacojea" htmlUrl="https://twitter.com/mimesacojea"/>
+      <outline text="Mimesacojea" title="MiMesaCojea" type="rss" xmlUrl="https://feeds.feedburner.com/mimesacojea" htmlUrl="https://mimesacojea.com/"/>
     </outline>
     <outline text="comics" title="comics">
       <outline text="The Oatmeal - Comics, Quizzes, &amp; Stories" title="The Oatmeal - Comics, Quizzes, &amp; Stories" type="rss" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
