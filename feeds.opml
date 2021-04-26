@@ -18,6 +18,7 @@
     </outline>
     <outline text="blogs" title="blogs">
       <outline text="Emacs News" title="Emacs News" type="rss" xmlUrl="https://sachachua.com/blog/category/emacs-news/feed" htmlUrl="https://sachachua.com/blog/category/emacs-news/"/>
+      <outline text="This Month in Org" title="This Month in Org" type="rss" xmlUrl="https://blog.tecosaur.com/tmio/rss" htmlUrl="https://blog.tecosaur.com/tmio/"/>
       <outline text="Wrocław Uncut" title="Wrocław Uncut" type="rss" xmlUrl="https://wroclawuncut.com/feed/" htmlUrl="https://wroclawuncut.com"/>
       <outline text="francis" title="francis" type="rss" xmlUrl="http://feeds.feedburner.com/naukas/francis" htmlUrl="http://francis.naukas.com"/>
       <outline text="ocularis" title="ocularis" type="rss" xmlUrl="https://ocularis.es/feed/" htmlUrl="https://ocularis.es/"/>
